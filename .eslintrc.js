@@ -13,5 +13,9 @@ module.exports = {
     sourceType: 'module'
   },
   rules: {
+    semi: [
+      'error',
+      'always'
+    ]
   }
 };
